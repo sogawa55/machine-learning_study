@@ -1,16 +1,19 @@
-## _機械学習の実践_
+# _機械学習の実践_
 
-* Tensorflow
+## Tensorflow
+* MNIST-Tutorial
+* 日経平均株価の予測
 
 http://qiita.com/KojiOhki/items/ff6ae04d6cf02f1b6edf
 https://www.tensorflow.org/get_started/mnist/beginners
  
- 
-* Scikit-learn
+## Scikit-learn
+* MNIST-Tutorial
+* ワインのデータの分析
  
  http://qiita.com/nazoking@github/items/ae16bd4d93464fbfa19b
- 
-* Keras
+
+## Keras
  
 https://keras.io/ja/
 
